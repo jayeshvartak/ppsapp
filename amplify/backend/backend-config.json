@@ -1,0 +1,10 @@
+{
+  "auth": {
+    "ppsapp342bf10a": {
+      "service": "Cognito",
+      "providerPlugin": "awscloudformation",
+      "dependsOn": [],
+      "customAuth": false
+    }
+  }
+}
