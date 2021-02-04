@@ -1,0 +1,8 @@
+type Cheque @model {
+  id: ID!
+  chequeNumber: String!
+  chequeDate: String
+  amount: String
+  payee: String
+  imageKey: String
+}
